@@ -1,6 +1,6 @@
-# PKL ONLINE 
+# Workshop IOT
 
-**Materi pkl online untuk microcontroller IOT**
+**Materi Workshop IOT untuk microcontroller IOT**
 
 Dalam materi ini akan membahas panduan perakitan soil moisture dan pompa air.
 Ada dua tahap yang akan dilakukan dalam merakit soil moisture dan pompa air yaitu: 
